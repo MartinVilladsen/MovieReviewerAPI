@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace imdbRanking.Controllers
 {
-    [Route("api/movie/{movieId}/review")]
+    [Route("api/movies/{movieId}/reviews")]
     [ApiController]
     public class ReviewController : ControllerBase
     {
