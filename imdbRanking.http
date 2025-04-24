@@ -1,0 +1,6 @@
+@imdbRanking_HostAddress = http://localhost:5067
+
+GET {{imdbRanking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
