@@ -1,6 +1,8 @@
 RESTful API til håndtering af film og anmeldelser.
 
-Jeg vil gerne arbejde mere med håndtering af API'er, og jeg har et mål om at få min kæreste til at se alle filmene på IMDb's Top 250-liste. På denne måde kan vi anmelde filmene ved at sende til et API, hvilket jeg tænkte kunne være et sjovt lille sideprojekt.
+Jeg vil gerne arbejde mere med håndtering af API'er, og jeg har et mål om at få min kæreste til at se alle filmene på IMDb's Top 250-liste. På denne måde kan vi anmelde filmene ved at sende til et API, hvilket jeg tænkte kunne være et sjovt lille sideprojekt. 
+
+Gemmes i en MSSQL database
 
 ## Endpoints
 
