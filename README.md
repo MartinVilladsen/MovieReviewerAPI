@@ -26,6 +26,9 @@ Jeg vil gerne arbejde mere med håndtering af API'er, og jeg har et mål om at f
 
 
 ### Film
+![Eksempel på json af alle film](https://github.com/user-attachments/assets/06cb993d-456c-4728-a3c7-20760c5a4b3d)
+
+
 ![Eksempel på json af film](https://github.com/user-attachments/assets/e1d0f78a-2970-477b-a3aa-5e15414c561b)
 
 ### Create en ny film
